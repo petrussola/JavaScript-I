@@ -3,11 +3,14 @@
 // let myFunction = function () {
 // console.log("Function was invoked!");
 // };
-// myFunction();
+let myFunction = () => console.log("Function was invoked!");
+myFunction();
+
 
 // let anotherFunction = function (param) {
 //   return param;
 // };
+
 // anotherFunction("Example");
 
 // let add = function (param1, param2) {
